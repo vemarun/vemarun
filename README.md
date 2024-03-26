@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-My Blogs and other links -
-
 <!--
 **vemarun/vemarun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
